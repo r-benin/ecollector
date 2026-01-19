@@ -3,13 +3,13 @@
 
 # Ecollector: Household Used Cooking Oil (UCO) Collection System
 > **DISCLAIMER:** This project is already completed and will no longer be maintained.
-> It is only shared for portfolio and demonstration purposes.
+> It is shared only for portfolio and demonstration purposes.
 
 
 Ecollector was developed as part of a college capstone requirement. It was made primarily to address the improper disposal of used cooking oil (UCO) help facilitate its collection at the household level.
 The system involves a mobile application and a web-based admin dashboard.
 
-Watch this [video](https://youtu.be/rp0Tfp7YzAY) to get better overview of the Ecollector system
+Watch this <a href='https://youtu.be/rp0Tfp7YzAY' target='_blank'>video</a> to get better overview of the Ecollector system
 
 [<img src="https://github.com/user-attachments/assets/d475e742-b6d7-4764-bae9-11678aa93d0d" width="640" height="360"/>](https://youtu.be/rp0Tfp7YzAY)
 
